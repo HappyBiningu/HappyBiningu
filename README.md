@@ -1,88 +1,215 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Happy Biningu 👋</h1>
-<h3 align="center">Data Scientist | Software Engineer | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="coding animation"/>
-</p>
+# 🚀 Happy Biningu
+### `Data Scientist • ETL Engineer • ML Engineer • Full-Stack Developer`
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights;Building+Scalable+Data+Pipelines;Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 
-## 👨‍💻 About Me
-I'm a passionate **Data Scientist and Software Engineer** who loves turning data into insights and building impactful applications.  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Data Science Animation"/>
 
-- 🌱 Currently exploring **Machine Learning, Deep Learning, and Cloud Technologies**  
-- 💻 Experienced in **Full-Stack Development, Data Analysis, and AI**  
-- 🎯 Goal: Solve real-world problems with code and data  
-
-> “Data is the new oil, and code is the engine that extracts its value.”
+</div>
 
 ---
 
-## 🔹 Skills & Technologies
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+## 🧬 **Data DNA**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+</div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HappyBiningu&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyBiningu&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBiningu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Happy Biningu"
+        self.role = "Data Scientist & ML Engineer"
+        self.languages = ["Python", "R", "SQL", "JavaScript", "TypeScript"]
+        self.specialties = ["ETL Pipelines", "Machine Learning", "Data Engineering"]
+        self.current_focus = "Building AI-powered solutions"
+    
+    def get_skills(self):
+        return {
+            "data_engineering": ["Apache Spark", "Airflow", "Kafka", "Databricks"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "BigQuery"],
+            "cloud_platforms": ["AWS", "GCP", "Azure"],
+            "visualization": ["Tableau", "Power BI", "Plotly", "D3.js"]
+        }
+    
+    def current_projects(self):
+        return ["Real-time ML Pipeline", "NLP Sentiment Analysis", "Computer Vision App"]
+```
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
 
-Here are some projects that tell my story:  
+## ⚡ **Tech Arsenal**
 
-- [**Portfolio Website**](https://biningutinoportfolio.netlify.app) – Interactive showcase of my work and data science projects  
-- [**Data Science Project**](#) – Predictive model with visualization dashboards  
-- [**Full-Stack App**](#) – End-to-end web application demonstrating React + Node.js  
+### 🔥 **Core Technologies**
 
----
+<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,sql,java&theme=dark" />
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/happybiningu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://biningutinoportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:happybiningu@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 🛠️ **Data Science & ML Stack**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&theme=dark" />
+
+### ☁️ **Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git&theme=dark" />
+
+### 🌐 **Full-Stack Development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,fastapi,postgresql,mongodb&theme=dark" />
+
+</div>
 
 ---
 
-## 🎨 Fun Visuals
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCV0jXkHf0H4n7a/giphy.gif" width="400" alt="data science fun"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="coding fun"/>
-</p>
+<div align="center">
 
+## 📊 **Performance Analytics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HappyBiningu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HappyBiningu&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBiningu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏗️ **Data Pipeline Architecture**
+
+```mermaid
+graph LR
+    A[Raw Data] --> B[Data Ingestion]
+    B --> C[ETL Pipeline]
+    C --> D[Data Warehouse]
+    D --> E[ML Models]
+    E --> F[Real-time API]
+    F --> G[Dashboards]
+    
+    style A fill:#ff6b6b
+    style C fill:#4ecdc4
+    style E fill:#45b7d1
+    style G fill:#96ceb4
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **Featured Data Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 **ML Model Deployment**
+- **Real-time Prediction API** with FastAPI
+- **Computer Vision** for image classification
+- **95% accuracy** on production data
+- Technologies: `PyTorch` `Docker` `AWS`
+
+</td>
+<td width="50%">
+
+### 📈 **ETL Data Pipeline**
+- **Automated data processing** from multiple sources
+- **Real-time streaming** with Apache Kafka
+- **Scalable architecture** handling 1M+ records/day
+- Technologies: `Apache Spark` `Airflow` `GCP`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 **Interactive Dashboard**
+- **Business Intelligence** platform
+- **Real-time analytics** and reporting
+- **Custom visualizations** for stakeholders
+- Technologies: `React` `D3.js` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🔍 **NLP Sentiment Analysis**
+- **Twitter sentiment** monitoring system
+- **Multi-language support** with 90%+ accuracy
+- **Deployed microservices** architecture
+- Technologies: `transformers` `FastAPI` `Redis`
+
+</td>
+</tr>
+</table>
+
+🔗 **[View All Projects →](https://biningutinoportfolio.netlify.app)**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **GitHub Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HappyBiningu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **Achievement Showcase**
+
+<img src="https://github-profile-trophy.vercel.app/?username=HappyBiningu&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 **Connect & Collaborate**
+
+<a href="https://www.linkedin.com/in/happybiningu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="https://biningutinoportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+</a>
+<a href="mailto:happybiningu@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 **Current Focus**
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Data Analysis"/>
+
+🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
+🚧 **Building:** *End-to-end Data Science Platform*  
+📚 **Learning:** *Distributed Computing & Edge AI*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+
+*"Turning raw data into actionable insights, one pipeline at a time"* 🚀
+
+</div>
