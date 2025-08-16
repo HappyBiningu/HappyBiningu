@@ -77,6 +77,36 @@ class DataScientist:
 </div>
 
 ---
+## 🏗️ **Enterprise Data Architecture**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13682808e29.gif" width="200">
+
+```mermaid
+graph TB
+    A[🌐 Data Sources] --> B[📥 Ingestion Layer]
+    B --> C[🔄 Stream Processing]
+    C --> D[🗄️ Data Lake]
+    D --> E[⚙️ ETL/ELT Pipeline]
+    E --> F[🏢 Data Warehouse]
+    F --> G[🤖 ML Platform]
+    G --> H[🚀 Model Serving]
+    H --> I[📊 Analytics & BI]
+    I --> J[👥 End Users]
+    
+    K[🔍 Data Quality] --> E
+    L[🔒 Security Layer] --> F
+    M[📈 Monitoring] --> G
+    
+    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px
+    style C fill:#4ecdc4,stroke:#fff,stroke-width:3px
+    style G fill:#45b7d1,stroke:#fff,stroke-width:3px
+    style I fill:#96ceb4,stroke:#fff,stroke-width:3px
+    style K fill:#ffa726,stroke:#fff,stroke-width:3px
+    style L fill:#ef5350,stroke:#fff,stroke-width:3px
+    style M fill:#ab47bc,stroke:#fff,stroke-width:3px
+```
+
+</div>
 
 <div align="center">
 
@@ -206,15 +236,6 @@ graph LR
 🚧 **Building:** *End-to-end Data Science Platform*  
 📚 **Learning:** *Distributed Computing & Edge AI*
 
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░  65.2%
-SQL          3 hrs 15 mins   ████░░░░░░░░░░░  17.1%
-JavaScript   2 hrs 45 mins   ███░░░░░░░░░░░░  14.4%
-YAML         30 mins         ░░░░░░░░░░░░░░░   2.6%
-Dockerfile   8 mins          ░░░░░░░░░░░░░░░   0.7%
-```
-<!--END_SECTION:waka-->
 
 
 <img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
