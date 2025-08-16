@@ -199,8 +199,8 @@ graph LR
 <div align="center">
 
 ## 💡 **Current Focus**
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Data Analysis"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Data Analysis"/>
 
 🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
 🚧 **Building:** *End-to-end Data Science Platform*  
@@ -213,7 +213,6 @@ graph LR
 *"Turning raw data into actionable insights, one pipeline at a time"* 🚀
 
 </div>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together&descAlignY=50&descAlign=center"/>
