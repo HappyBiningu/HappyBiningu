@@ -195,7 +195,9 @@ graph TB
 <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
-
+<a href="https://.../yourhandle">
+<img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</a>
 </div>
 
 ---
@@ -212,7 +214,6 @@ graph TB
 
 
 
-<img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
 *"Turning raw data into actionable insights, one pipeline at a time"* 🚀
 
