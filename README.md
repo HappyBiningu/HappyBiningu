@@ -215,6 +215,6 @@ graph LR
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together&descAlignY=50&descAlign=center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&descAlignY=50&descAlign=center"/>
 
 </div>
