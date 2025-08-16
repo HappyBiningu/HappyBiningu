@@ -206,6 +206,16 @@ graph LR
 🚧 **Building:** *End-to-end Data Science Platform*  
 📚 **Learning:** *Distributed Computing & Edge AI*
 
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░  65.2%
+SQL          3 hrs 15 mins   ████░░░░░░░░░░░  17.1%
+JavaScript   2 hrs 45 mins   ███░░░░░░░░░░░░  14.4%
+YAML         30 mins         ░░░░░░░░░░░░░░░   2.6%
+Dockerfile   8 mins          ░░░░░░░░░░░░░░░   0.7%
+```
+<!--END_SECTION:waka-->
+
 
 <img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
