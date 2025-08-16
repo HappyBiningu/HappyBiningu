@@ -181,14 +181,6 @@ graph TB
 
 <div align="center">
 
-## 🔗 **Connect & Collaborate**
-
-
-
----
-
-<div align="center">
-
 ## 💡 **Current Focus**
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="400" alt="Data Analysis"/>
