@@ -199,14 +199,13 @@ graph LR
 <div align="center">
 
 ## 💡 **Current Focus**
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Data Analysis"/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" alt="Data Analysis"/>
 
 🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
 🚧 **Building:** *End-to-end Data Science Platform*  
 📚 **Learning:** *Distributed Computing & Edge AI*
 
----
 
 <img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
@@ -215,6 +214,6 @@ graph LR
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&descAlignY=50&descAlign=center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
 </div>
