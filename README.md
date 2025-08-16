@@ -200,7 +200,7 @@ graph LR
 
 ## 💡 **Current Focus**
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" alt="Data Analysis"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="500" alt="Data Analysis"/>
 
 🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
 🚧 **Building:** *End-to-end Data Science Platform*  
