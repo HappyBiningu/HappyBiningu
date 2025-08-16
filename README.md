@@ -3,15 +3,11 @@
 # 🚀 Happy Biningu
 ### `Data Scientist • ETL Engineer • ML Engineer • Full-Stack Developer`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=700&lines=🔥+Transforming+Data+into+Insights;⚡+Building+Scalable+ETL+Pipelines;🤖+Machine+Learning+%26+AI+Enthusiast;🌐+Full-Stack+Cloud+Developer;📊+Data+Engineering+Architect;🚀+MLOps+%26+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights;Building+Scalable+Data+Pipelines;Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer;ETL+Pipeline+Architect;Cloud+Solutions+Engineer" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Data Science Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Data Science Animation"/>
 
-<p>
 <img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/HappyBiningu?style=for-the-badge&color=blue" alt="Followers" />
-<img src="https://img.shields.io/github/stars/HappyBiningu?style=for-the-badge&color=yellow" alt="Stars" />
-</p>
 
 </div>
 
@@ -19,57 +15,32 @@
 
 <div align="center">
 
-## 🧬 **Data DNA Profile**
+## 🧬 **Data DNA**
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
-<div align="left">
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Happy Biningu"
-        self.role = "Senior Data Scientist & ML Engineer"
-        self.location = "🌍 Global Remote"
-        self.languages = ["Python", "R", "SQL", "JavaScript", "TypeScript", "Java"]
-        self.specialties = ["ETL Pipelines", "Machine Learning", "Data Engineering", "MLOps"]
-        self.current_focus = "Building AI-powered solutions at scale"
-        self.years_of_experience = 5
-        
-    def get_expertise(self):
+        self.role = "Data Scientist & ML Engineer"
+        self.languages = ["Python", "R", "SQL", "JavaScript", "TypeScript"]
+        self.specialties = ["ETL Pipelines", "Machine Learning", "Data Engineering"]
+        self.current_focus = "Building AI-powered solutions"
+    
+    def get_skills(self):
         return {
-            "data_engineering": {
-                "streaming": ["Apache Spark", "Kafka", "Kinesis"],
-                "orchestration": ["Apache Airflow", "Prefect", "Dagster"],
-                "storage": ["Delta Lake", "Apache Iceberg", "Parquet"],
-                "platforms": ["Databricks", "Snowflake", "BigQuery"]
-            },
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost", "LightGBM"],
-            "mlops_tools": ["MLflow", "Kubeflow", "Weights & Biases", "DVC"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "Cassandra", "ClickHouse"],
-            "cloud_platforms": ["AWS", "GCP", "Azure", "Kubernetes"],
-            "visualization": ["Tableau", "Power BI", "Plotly", "D3.js", "Streamlit"]
+            "data_engineering": ["Apache Spark", "Airflow", "Kafka", "Databricks"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "BigQuery"],
+            "cloud_platforms": ["AWS", "GCP", "Azure"],
+            "visualization": ["Tableau", "Power BI", "Plotly", "D3.js"]
         }
     
     def current_projects(self):
-        return [
-            "🔥 Real-time ML Pipeline with 99.9% uptime",
-            "🧠 Computer Vision for Medical Imaging",
-            "📊 Automated Financial Trading System",
-            "🌐 Multi-modal AI Assistant"
-        ]
-    
-    def achievements(self):
-        return {
-            "data_processed": "10TB+ daily",
-            "models_deployed": "50+ production models",
-            "cost_savings": "$2M+ through optimization",
-            "uptime": "99.95% average"
-        }
+        return ["Real-time ML Pipeline", "NLP Sentiment Analysis", "Computer Vision App"]
 ```
-
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -79,48 +50,33 @@ class DataScientist:
 
 <div align="center">
 
-## ⚡ **Tech Arsenal & Expertise Matrix**
+## ⚡ **Tech Arsenal**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 🔥 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,java,scala&theme=dark" />
+### 🔥 **Core Technologies**
+<img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,java&theme=dark" />
 
-### 🛠️ **Data Science & ML Ecosystem**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+### 🛠️ **Data Science & ML Stack**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas&theme=dark" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 ### ☁️ **Cloud & Infrastructure**
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git&theme=dark" />
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
 
-### 🗄️ **Databases & Storage**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
-
 ### 🌐 **Full-Stack Development**
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,fastapi,nextjs,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,fastapi,postgresql,mongodb&theme=dark" />
 
-### 📊 **Analytics & Visualization**
+### 📊 **Databases & Visualization**
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-### 🔧 **MLOps & DevOps**
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
 </div>
 
@@ -128,15 +84,14 @@ class DataScientist:
 
 <div align="center">
 
-## 📊 **GitHub Performance Dashboard**
+## 📊 **Performance Analytics**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HappyBiningu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HappyBiningu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HappyBiningu&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBiningu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo1,repo2" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HappyBiningu&repo=your-best-repo&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyBiningu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HappyBiningu&theme=tokyonight" width="100%"/>
 
@@ -146,33 +101,23 @@ class DataScientist:
 
 <div align="center">
 
-## 🏗️ **Enterprise Data Architecture**
+## 🏗️ **Data Pipeline Architecture**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13682808e29.gif" width="200">
 
 ```mermaid
-graph TB
-    A[🌐 Data Sources] --> B[📥 Ingestion Layer]
-    B --> C[🔄 Stream Processing]
-    C --> D[🗄️ Data Lake]
-    D --> E[⚙️ ETL/ELT Pipeline]
-    E --> F[🏢 Data Warehouse]
-    F --> G[🤖 ML Platform]
-    G --> H[🚀 Model Serving]
-    H --> I[📊 Analytics & BI]
-    I --> J[👥 End Users]
+graph LR
+    A[🗃️ Raw Data] --> B[📥 Data Ingestion]
+    B --> C[⚙️ ETL Pipeline]
+    C --> D[🏢 Data Warehouse]
+    D --> E[🤖 ML Models]
+    E --> F[🚀 Real-time API]
+    F --> G[📊 Dashboards]
     
-    K[🔍 Data Quality] --> E
-    L[🔒 Security Layer] --> F
-    M[📈 Monitoring] --> G
-    
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px
-    style C fill:#4ecdc4,stroke:#fff,stroke-width:3px
-    style G fill:#45b7d1,stroke:#fff,stroke-width:3px
-    style I fill:#96ceb4,stroke:#fff,stroke-width:3px
-    style K fill:#ffa726,stroke:#fff,stroke-width:3px
-    style L fill:#ef5350,stroke:#fff,stroke-width:3px
-    style M fill:#ab47bc,stroke:#fff,stroke-width:3px
+    style A fill:#ff6b6b,stroke:#fff,stroke-width:2px
+    style C fill:#4ecdc4,stroke:#fff,stroke-width:2px
+    style E fill:#45b7d1,stroke:#fff,stroke-width:2px
+    style G fill:#96ceb4,stroke:#fff,stroke-width:2px
 ```
 
 </div>
@@ -181,7 +126,7 @@ graph TB
 
 <div align="center">
 
-## 🚀 **Featured Data Engineering Projects**
+## 🚀 **Featured Data Projects**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
@@ -189,30 +134,24 @@ graph TB
 <tr>
 <td width="50%">
 
-### 🧠 **Real-time ML Prediction System**
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="left"/>
+### 🧠 **ML Model Deployment**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" align="left"/>
 
-- **🚀 100ms response time** for real-time predictions
-- **📈 99.9% uptime** with auto-scaling
-- **🔥 Handles 10K+ requests/second**
-- **💰 50% cost reduction** vs previous system
-- `FastAPI` `Kubernetes` `Redis` `MLflow`
-
-<br clear="left"/>
+- **Real-time Prediction API** with FastAPI
+- **Computer Vision** for image classification  
+- **95% accuracy** on production data
+- Technologies: `PyTorch` `Docker` `AWS`
 
 </td>
 <td width="50%">
 
-### 📊 **Enterprise ETL Pipeline**
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" align="left"/>
+### 📈 **ETL Data Pipeline**
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" align="left"/>
 
-- **⚡ Processes 5TB+ data daily**
-- **🔄 Near real-time streaming** (< 30s latency)
-- **🎯 99.95% data quality** with automated checks
-- **📱 Self-healing architecture** with monitoring
-- `Apache Spark` `Kafka` `Airflow` `Delta Lake`
-
-<br clear="left"/>
+- **Automated data processing** from multiple sources
+- **Real-time streaming** with Apache Kafka
+- **Scalable architecture** handling 1M+ records/day
+- Technologies: `Apache Spark` `Airflow` `GCP`
 
 </td>
 </tr>
@@ -220,36 +159,30 @@ graph TB
 <tr>
 <td width="50%">
 
-### 🤖 **Computer Vision AI Platform**
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c7a.gif" width="80" align="left"/>
+### 📊 **Interactive Dashboard**
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c7a.gif" width="60" align="left"/>
 
-- **🎯 95% accuracy** on production data
-- **📸 Processes 1M+ images daily**
-- **🔧 Multi-model ensemble** approach
-- **☁️ Serverless deployment** on AWS Lambda
-- `PyTorch` `OpenCV` `AWS` `Docker`
-
-<br clear="left"/>
+- **Business Intelligence** platform
+- **Real-time analytics** and reporting
+- **Custom visualizations** for stakeholders
+- Technologies: `React` `D3.js` `PostgreSQL`
 
 </td>
 <td width="50%">
 
-### 📈 **Financial Analytics Dashboard**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" align="left"/>
+### 🔍 **NLP Sentiment Analysis**
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" align="left"/>
 
-- **📊 Real-time market analysis**
-- **💹 Automated trading signals**
-- **🔍 Risk assessment algorithms**
-- **📱 Mobile-responsive interface**
-- `React` `D3.js` `Python` `WebSocket`
-
-<br clear="left"/>
+- **Twitter sentiment** monitoring system
+- **Multi-language support** with 90%+ accuracy
+- **Deployed microservices** architecture  
+- Technologies: `transformers` `FastAPI` `Redis`
 
 </td>
 </tr>
 </table>
 
-🔗 **[🌟 View Complete Portfolio →](https://biningutinoportfolio.netlify.app)**
+🔗 **[View All Projects →](https://biningutinoportfolio.netlify.app)**
 
 </div>
 
@@ -257,9 +190,29 @@ graph TB
 
 <div align="center">
 
-## 📈 **Contribution Heatmap & Activity**
+## 📈 **GitHub Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HappyBiningu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=📊%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HappyBiningu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Achievement Showcase**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284175-acc7817a-8b84-4f95-a914-4a55f9e9879a.gif" width="100">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HappyBiningu&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **Contribution Heatmap**
 
 <img src="https://raw.githubusercontent.com/HappyBiningu/HappyBiningu/output/snake.svg" alt="Snake animation" />
 
@@ -269,21 +222,9 @@ graph TB
 
 <div align="center">
 
-## 🏆 **Achievement Gallery**
+## 🌟 **Real-time Stats**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284175-acc7817a-8b84-4f95-a914-4a55f9e9879a.gif" width="100">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HappyBiningu&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
-
-### 🎯 **Key Metrics & Impact**
-<table align="center">
-<tr>
-<td align="center"><strong>💾 Data Processed</strong><br/>10+ TB Daily</td>
-<td align="center"><strong>🤖 Models Deployed</strong><br/>50+ Production</td>
-<td align="center"><strong>💰 Cost Savings</strong><br/>$2M+ Annual</td>
-<td align="center"><strong>⚡ System Uptime</strong><br/>99.95% Average</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@HappyBiningu&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -291,27 +232,7 @@ graph TB
 
 <div align="center">
 
-## 🌟 **Skill Progression Radar**
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie title Data Science Skills Distribution
-    "Machine Learning" : 25
-    "Data Engineering" : 20
-    "Cloud Architecture" : 15
-    "Full-Stack Dev" : 15
-    "MLOps" : 12
-    "Data Visualization" : 8
-    "DevOps" : 5
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🔗 **Professional Network & Collaboration**
+## 🔗 **Connect & Collaborate**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
 
@@ -327,14 +248,6 @@ pie title Data Science Skills Distribution
 <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
-<a href="https://kaggle.com/yourusername">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-### 💼 **Open for Collaboration**
-<img src="https://img.shields.io/badge/🤝%20Collaboration-Open-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💡%20Consulting-Available-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📚%20Mentoring-Active-orange?style=for-the-badge"/>
 
 </div>
 
@@ -342,35 +255,18 @@ pie title Data Science Skills Distribution
 
 <div align="center">
 
-## 💡 **Current Research & Innovation**
+## 💡 **Current Focus**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c7a.gif" width="100">
 
-🔬 **Researching:** *Edge AI & Federated Learning for Real-time Systems*  
-🚧 **Building:** *Next-gen MLOps Platform with Auto-scaling*  
-📚 **Learning:** *Quantum Computing Applications in ML*  
-🎯 **Goal 2025:** *Deploy AI solutions serving 1M+ users daily*
+🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
+🚧 **Building:** *End-to-end Data Science Platform*  
+📚 **Learning:** *Distributed Computing & Edge AI*
 
 ---
 
-## 📊 **Weekly Development Breakdown**
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░  65.2%
-SQL          3 hrs 15 mins   ████░░░░░░░░░░░  17.1%
-JavaScript   2 hrs 45 mins   ███░░░░░░░░░░░░  14.4%
-YAML         30 mins         ░░░░░░░░░░░░░░░   2.6%
-Dockerfile   8 mins          ░░░░░░░░░░░░░░░   0.7%
-```
-<!--END_SECTION:waka-->
-
----
-
-*"Building the future of data-driven decision making, one algorithm at a time"* 🚀
+*"Turning raw data into actionable insights, one pipeline at a time"* 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together&descAlignY=50&descAlign=center"/>
 
 </div>
