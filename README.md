@@ -213,3 +213,9 @@ graph LR
 *"Turning raw data into actionable insights, one pipeline at a time"* 🚀
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let%27s%20build%20something%20amazing%20together&descAlignY=50&descAlign=center"/>
+
+</div>
