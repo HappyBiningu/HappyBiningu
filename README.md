@@ -1,12 +1,7 @@
 <div align="center">
-
-# 🚀 Happy Biningu
 ### `Data Scientist • ETL Engineer • ML Engineer • Full-Stack Developer`
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights;Building+Scalable+Data+Pipelines;Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Data Science Animation"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Data Science Animation"/>
 </div>
 
 ---
@@ -104,27 +99,6 @@ graph TB
     style K fill:#ffa726,stroke:#fff,stroke-width:3px
     style L fill:#ef5350,stroke:#fff,stroke-width:3px
     style M fill:#ab47bc,stroke:#fff,stroke-width:3px
-```
-
-</div>
-
-<div align="center">
-
-## 🏗️ **Data Pipeline Architecture**
-
-```mermaid
-graph LR
-    A[Raw Data] --> B[Data Ingestion]
-    B --> C[ETL Pipeline]
-    C --> D[Data Warehouse]
-    D --> E[ML Models]
-    E --> F[Real-time API]
-    F --> G[Dashboards]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
 ```
 
 </div>
