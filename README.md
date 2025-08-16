@@ -183,6 +183,27 @@ graph TB
 
 ## 🔗 **Connect & Collaborate**
 
+
+
+---
+
+<div align="center">
+
+## 💡 **Current Focus**
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="400" alt="Data Analysis"/>
+
+🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
+🚧 **Building:** *End-to-end Data Science Platform*  
+📚 **Learning:** *Distributed Computing & Edge AI*
+
+
+
+
+*"Turning raw data into actionable insights, one pipeline at a time"* 🚀
+
+</div>
+
 <a href="https://www.linkedin.com/in/happybiningu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
@@ -199,26 +220,6 @@ graph TB
 <img src="https://komarev.com/ghpvc/?username=HappyBiningu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </a>
 </div>
-
----
-
-<div align="center">
-
-## 💡 **Current Focus**
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="200" alt="Data Analysis"/>
-
-🔬 **Researching:** *Advanced MLOps and Real-time ML Systems*  
-🚧 **Building:** *End-to-end Data Science Platform*  
-📚 **Learning:** *Distributed Computing & Edge AI*
-
-
-
-
-*"Turning raw data into actionable insights, one pipeline at a time"* 🚀
-
-</div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
